@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  Hello, My name is Selom Tetedje. I am currently a sophomore majoring in Computer Science at the University of Illinois at Chicago. 
+</div>
 
 <div>
 
